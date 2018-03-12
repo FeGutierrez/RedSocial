@@ -26,7 +26,7 @@ public class Main {
         p.crearGrupo("Pesm", "Grupo aleatorio", "Ocio", p, redSocial);
         p.crearGrupo("Mtrx", "Simulacra", "Simulation", p, redSocial);
         
-        p.
+        
         
         
         q.crearGrupo("Name", "Desc", "Type", q, redSocial);
